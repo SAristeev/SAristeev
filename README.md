@@ -1,4 +1,4 @@
-### ![image](https://github.com/SAristeev/SAristeev/assets/49276812/a76daab0-a168-4aa2-bd0c-35cba4074f61)
+### ![image](https://leetcard.jacoblin.cool/SAristeev?theme=nord&font=Sen)
 
 
 <!--
