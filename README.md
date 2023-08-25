@@ -1,7 +1,8 @@
-### ![image](https://leetcard.jacoblin.cool/SAristeev?theme=nord&font=Sen)
+
 
 
 <!--
+### ![image](https://leetcard.jacoblin.cool/SAristeev?theme=nord&font=Sen)
 **SAristeev/SAristeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
