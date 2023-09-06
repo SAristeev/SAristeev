@@ -1,3 +1,5 @@
+### Студенческий и личный репозиторий
+### ![image](https://leetcard.jacoblin.cool/SAristeev?theme=nord&font=Sen)
 
 
 
