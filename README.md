@@ -1,4 +1,5 @@
 ### Студенческий и личный репозиторий
+Тренировки по алгоритмам
 ### ![image](https://leetcard.jacoblin.cool/SAristeev?theme=nord&font=Sen)
 
 
